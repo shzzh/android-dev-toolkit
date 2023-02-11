@@ -377,3 +377,5 @@ class Engine:
 class Engine:
     def start(self): pass
 # Balanced Update for 2023 at 2023-02-11T00:00:00
+    def restart(self): pass
+# Balanced Update for 2023 at 2023-02-11T00:00:00
