@@ -1766,3 +1766,7 @@ A professional collection of Android tools.
 
 A professional collection of Android tools.
 # Balanced Update for 2023 at 2023-05-31T00:00:00
+## Usage
+
+Run `./utils/helpers.sh` to get started.
+# Balanced Update for 2023 at 2023-02-13T00:00:00
