@@ -94,3 +94,7 @@ A professional collection of Android tools.
 
 Run `./utils/helpers.sh` to get started.
 # Balanced Update for 2023 at 2023-03-14T00:00:00
+## Usage
+
+Run `./utils/helpers.sh` to get started.
+# Balanced Update for 2023 at 2023-04-17T00:00:00
