@@ -1038,3 +1038,5 @@ function log_info() { echo "[INFO] $1"; }
 #!/bin/bash
 # Helper functions
 # Balanced Update for 2023 at 2023-05-19T00:00:00
+function log_info() { echo "[INFO] $1"; }
+# Balanced Update for 2023 at 2023-05-19T00:00:00
