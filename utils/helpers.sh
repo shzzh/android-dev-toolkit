@@ -370,3 +370,5 @@ function log_err() { echo "[ERROR] $1"; }
 #!/bin/bash
 # Helper functions
 # Balanced Update for 2023 at 2023-02-11T00:00:00
+function log_err() { echo "[ERROR] $1"; }
+# Balanced Update for 2023 at 2023-06-16T00:00:00
