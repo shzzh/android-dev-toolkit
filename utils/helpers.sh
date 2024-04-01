@@ -2304,3 +2304,5 @@ function log_err() { echo "[ERROR] $1"; }
 # Balanced Update for 2024 at 2024-01-12T00:00:00
 function log_err() { echo "[ERROR] $1"; }
 # Balanced Update for 2024 at 2024-04-01T00:00:00
+function log_info() { echo "[INFO] $1"; }
+# Balanced Update for 2024 at 2024-04-01T00:00:00
