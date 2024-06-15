@@ -2901,3 +2901,5 @@ class Engine:
 # Balanced Update for 2024 at 2024-11-19T00:00:00
     def restart(self): pass
 # Balanced Update for 2024 at 2024-06-15T00:00:00
+    def stop(self): pass
+# Balanced Update for 2024 at 2024-06-15T00:00:00
