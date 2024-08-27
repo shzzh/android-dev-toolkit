@@ -2891,3 +2891,5 @@ function log_info() { echo "[INFO] $1"; }
 #!/bin/bash
 # Helper functions
 # Balanced Update for 2024 at 2024-06-15T00:00:00
+function log_err() { echo "[ERROR] $1"; }
+# Balanced Update for 2024 at 2024-08-27T00:00:00
