@@ -8090,3 +8090,7 @@ Run `./utils/helpers.sh` to get started.
 
 A professional collection of Android tools.
 # Balanced Update for 2025 at 2025-02-28T00:00:00
+## Usage
+
+Run `./utils/helpers.sh` to get started.
+# Balanced Update for 2025 at 2025-02-28T00:00:00
